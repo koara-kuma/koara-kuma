@@ -1,6 +1,14 @@
-### Hello I am Shelby
 
-I am 16 and currently still in highschool!!! I am currently attending the Governor's Honors Program this summer as a CS major :). My current goal is to get a job related to software development. If you have any questions feel free to reach out to me my discord is miloval. Have a good day!
+###Hello, I'm Shelby!
+Welcome to my GitHub profile! I'm thrilled to connect with fellow developers and share my journey in the world of software development. Here's a bit about me:
+
+🎓 I'm a high school student, eager to learn and grow in the field of technology.
+💻 Currently, I'm attending the Governor's Honors Program as a CS major this summer. It's an incredible opportunity to dive deeper into my passion for coding.
+🌟 My goal is to pursue a career in software development, where I can apply my skills and contribute to building innovative solutions.
+🌱 I'm constantly exploring new technologies and frameworks to stay up-to-date with the ever-evolving tech landscape.
+🤝 Collaboration is essential to me. I believe in the power of teamwork and enjoy working on projects with others to achieve shared goals.
+💬 If you have any questions, want to discuss a project, or simply have a chat, feel free to reach out to me. You can find me on Discord with the handle "miloval."
+Let's connect, learn, and build amazing things together! Have a fantastic day!
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,discord,atom,bots,git,github)](https://skillicons.dev)
